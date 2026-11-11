@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋, ben BPLA25</h1>
-<h3 align="center">Hindistan'dan tutkulu bir frontend geliştiricisiyim</h3>
+<h3 align="center">BOŞ İŞLER MÜDÜRÜ </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bpla25&label=Profile%20views&color=0e75b6&style=flat" alt="bpla25" /> </p>
 
