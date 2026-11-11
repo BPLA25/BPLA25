@@ -8,7 +8,7 @@
 <h3 align="left">Benimle bağlantı kurun:</h3>
 <p align="left">
 <a href="https://instagram.com/bplayz25" target="blank"><img align="center" <a href="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bplayz25" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/BPlayz25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bplayz25" height="30" width="40" /></a> </p>
+<a href="https://www.youtube.com/@BPlayz25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bplayz25" height="30" width="40" /></a> </p>
 <
 
 h3 align="left">Diller ve Araçlar:</h3>
